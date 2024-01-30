@@ -1,0 +1,19 @@
+{
+  "name": "node-js",
+  "version": "1.0.0",
+  "description": "belajar BE node js",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "author": "vicky",
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/client": "^5.8.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.2",
+    "prisma": "^5.8.0"
+  }
+}
